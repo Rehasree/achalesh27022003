@@ -16,5 +16,7 @@ Skills:  PYTHON / JS / HTML / CSS/ C / Content Creation / Public Speaking / Vide
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/achalesh27022003)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/achal2702/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/achalesh.lakhotiya.9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/achalesh_lakhotiya/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AchaleshL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCY_CrMF7g2Z-0EQ7gmVey_w)  
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=chartreuse-dark&show_icons=true)
+
 ![Profile views](https://gpvc.arturio.dev/achalesh27022003)  
 

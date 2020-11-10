@@ -7,7 +7,7 @@
 
 <b>About Me:</b> <br>
 <p style = font-family:'Roboto'>Dynamic Tech - Geek and Budding Electronics with creative oratory and writing skills. Curious to learn day-by-day new technologies, libraries, databases, frameworks, development and languages. Believe in Vibrant Leadership and Management . In pastime, love to solve crosswords, puzzles, sudokus and playing sports . Always up for projects !! Ping me if you have any.😀 </p>
-<br><br>
+<br>
 
 <b>Skills:</b><br>
 PYTHON / JS / HTML / CSS/ C / Content Creation / Public Speaking / Video Editor / Poster Design 
@@ -28,4 +28,5 @@ PYTHON / JS / HTML / CSS/ C / Content Creation / Public Speaking / Video Editor 
 <br>
 
 ![Profile views](https://gpvc.arturio.dev/achalesh27022003)  
-
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achalesh27022003)](https://github.com/achalesh27022003/github-readme-stats)

@@ -1,7 +1,8 @@
 ### Hi there 👋, I'm Achalesh Lakhotiya. 
 #### Delightful, Diligent & Dynamic Tech-Geek.
 
-<br>
+
+
 ![Blue Office Hacks YouTube Thumbnail](https://user-images.githubusercontent.com/57138750/98627514-70a6ff80-233a-11eb-9728-3c4c4190e61e.gif)
 <br><br>
 

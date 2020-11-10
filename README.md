@@ -29,4 +29,4 @@ PYTHON / JS / HTML / CSS/ C / Content Creation / Public Speaking / Video Editor 
 
 ![Profile views](https://gpvc.arturio.dev/achalesh27022003)  
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achalesh27022003)](https://github.com/achalesh27022003/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achalesh27022003&langs_count=8&layout=compact)](https://github.com/achalesh27022003/github-readme-stats)

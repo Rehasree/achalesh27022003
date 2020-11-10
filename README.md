@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Achalesh Lakhotiya 
 #### Delightful, Diligent & Dynamic Tech-Geek
-![Delightful, Diligent & Dynamic Tech-Geek](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Blue Office Hacks YouTube Thumbnail](https://user-images.githubusercontent.com/57138750/98627514-70a6ff80-233a-11eb-9728-3c4c4190e61e.gif)
 
 Dynamic Tech - Geek and Budding Electronics with creative oratory and writing skills. Curious to learn day-by-day new technologies, libraries, databases, frameworks, development and languages. Believe in Vibrant Leadership and Management . In pastime, love to solve crosswords, puzzles, sudokus and playing sports . Always up for projects !! Ping me if you have any.😀 
 
